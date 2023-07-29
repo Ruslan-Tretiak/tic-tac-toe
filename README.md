@@ -1,1 +1,1 @@
-# tic-tac-toe
+# goit-markup-js-01
